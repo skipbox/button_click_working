@@ -30,7 +30,7 @@ public class MainActivity extends AppCompatActivity {
 
         }
         if (the_id == R.id.b2) {
-            Toast.makeText(this, "but_2", Toast.LENGTH_SHORT).show();
+            Toast.makeText(this, "but_2_works", Toast.LENGTH_SHORT).show();
         }
         if (the_id == R.id.b3) {
             Toast.makeText(this, String.valueOf(the_id), Toast.LENGTH_SHORT).show();
